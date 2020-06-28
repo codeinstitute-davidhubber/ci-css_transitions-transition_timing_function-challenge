@@ -12,7 +12,7 @@
 ***
 
 ***
-#### project url: **'https://davidhubber.github.io/ci-css_transitions-transition_timing_function-challenge/'**
+#### project url: **'https://codeinstitute-davidhubber.github.io/ci-css_transitions-transition_timing_function-challenge/'**
 ***
 title: **'Code Institiute - CSS Transitions - Transition Timing Function - Challenge'**
 
